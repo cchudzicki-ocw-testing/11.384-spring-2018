@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 2016 Teaching Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Converting Biomass to Energy: A Low Carbon Development Strategy for Malaysia'
 uid: 3003b11c-edc6-ae54-5923-65e3982e5a34

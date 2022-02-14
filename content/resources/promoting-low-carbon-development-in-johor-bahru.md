@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 2016 Teaching Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Promoting Low Carbon Development in Johor Bahru
 uid: aae57c2e-0421-ed68-e1b3-5afa5df2d50e

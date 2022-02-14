@@ -1,9 +1,12 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 4a316d12-6586-fabe-6f8a-18ffa478dd4a
 title: The Role of Reflective Practice
+type: CourseSection
 uid: bd7dcf48-3bba-73c4-46a6-dc109a96dbbc
 ---
 

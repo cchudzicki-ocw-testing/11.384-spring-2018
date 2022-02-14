@@ -1,9 +1,12 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types: []
 parent_title: Related Resources
+parent_type: CourseSection
 parent_uid: a28be3ab-a197-1e2b-ccf5-fc519a6d0346
 title: 2015 Teaching Videos
+type: CourseSection
 uid: 2ea59d54-273a-e4d4-da90-7c3e769cd41c
 videos:
   content:

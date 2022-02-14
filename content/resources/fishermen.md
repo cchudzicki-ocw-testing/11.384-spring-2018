@@ -11,7 +11,11 @@ image_metadata:
     by Sera Tolgay.
   image-alt: A  man in a white shirt and a red hat sorts through fish and shrimp on
     a counter. A few men stand around him.
+learning_resource_types: []
+parent_title: Pre-Travel Tutorial
+parent_type: CourseSection
 resourcetype: Image
 title: fishermen.jpg
+type: OCWImage
 uid: 227d6c31-7f60-528c-a4b6-48591b2ec19b
 ---

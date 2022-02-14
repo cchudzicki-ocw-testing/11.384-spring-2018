@@ -9,7 +9,11 @@ image_metadata:
     palm oil industry. Photo by Rebecca Hui.
   credit: Photo by Rebecca Hui.
   image-alt: Two women sit leaning together in a doorway.
+learning_resource_types: []
+parent_title: Research Agendas
+parent_type: CourseSection
 resourcetype: Image
 title: women.jpg
+type: OCWImage
 uid: d1ad4960-23d3-4837-8998-52a4251a3f09
 ---

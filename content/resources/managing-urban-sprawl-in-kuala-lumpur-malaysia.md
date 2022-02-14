@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 2015 Teaching Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Managing Urban Sprawl in Kuala Lumpur, Malaysia
 uid: 6ea7032f-00e2-f36a-2a48-599f9e1b5790

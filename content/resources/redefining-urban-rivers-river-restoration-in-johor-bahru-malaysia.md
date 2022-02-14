@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 2016 Teaching Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Redefining Urban Rivers: River Restoration in Johor Bahru, Malaysia'
 uid: feb5d2b1-7aad-aefd-43a1-e25a284dfac2

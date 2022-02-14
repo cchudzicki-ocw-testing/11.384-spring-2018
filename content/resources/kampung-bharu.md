@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: Street photo of the city of Kuala Lumpur.
+learning_resource_types: []
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: Kuala Lumpur
+type: OCWImage
 uid: 41909151-2eb8-b862-64f1-6f263b696cd6
 ---

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 2016 Teaching Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: A Road Map of Urban Village Transformation in Kuala Lumpur, Malaysia
 uid: 68b392aa-d67e-926c-9ae9-4befe7ba5e5a

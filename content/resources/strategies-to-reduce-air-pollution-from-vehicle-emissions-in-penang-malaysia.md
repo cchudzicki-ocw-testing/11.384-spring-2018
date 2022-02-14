@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 2016 Teaching Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Strategies to Reduce Air Pollution from Vehicle Emissions in Penang, Malaysia
 uid: 0657e116-dba2-1861-4299-acec28fae64b

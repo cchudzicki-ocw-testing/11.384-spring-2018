@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 2016 Teaching Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Applying a Bottom-Up Approach to Improve Energy Subsidies in Malaysia
 uid: febe7fb2-aa73-fb3f-9226-2ac03dfc4406

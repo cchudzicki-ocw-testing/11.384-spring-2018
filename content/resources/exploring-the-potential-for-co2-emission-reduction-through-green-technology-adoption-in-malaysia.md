@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 2015 Teaching Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Exploring The Potential For CO2 Emission Reduction Through Green Technology
   Adoption in Malaysia
@@ -15,7 +22,7 @@ video_metadata:
   youtube_id: b-PoEwPoRe8
 ---
 
-**Description:** Dr. Fan Tu considers the application of Green Technologies in CO2 emission reduction in Malaysia.
+**Description:** Dr. Fan Tu considers the application of Green Technologies in CO{{< sub "2" >}} emission reduction in Malaysia.
 
 **Instructor:** Dr. Fan Tu
 
