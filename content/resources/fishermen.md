@@ -16,6 +16,5 @@ parent_title: Pre-Travel Tutorial
 parent_type: CourseSection
 resourcetype: Image
 title: fishermen.jpg
-type: OCWImage
 uid: 227d6c31-7f60-528c-a4b6-48591b2ec19b
 ---

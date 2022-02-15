@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Pre-Travel Tutorial
-type: CourseSection
 uid: cb99f732-153d-3c8b-0183-be1f42376728
 ---
 

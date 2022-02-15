@@ -12,6 +12,5 @@ parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: street life photo
-type: OCWImage
 uid: 6c5aec53-5746-0776-ffea-7e47e08ed7dc
 ---

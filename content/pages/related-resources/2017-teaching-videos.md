@@ -6,7 +6,6 @@ parent_title: Related Resources
 parent_type: CourseSection
 parent_uid: a28be3ab-a197-1e2b-ccf5-fc519a6d0346
 title: 2017 Teaching Videos
-type: CourseSection
 uid: fd13277d-aff1-34dc-ec95-9a6cc5d21f48
 videos:
   content: []

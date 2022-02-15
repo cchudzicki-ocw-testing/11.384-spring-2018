@@ -8,6 +8,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: '11.384 Spring 2018: Malaysia Sustainable Cities Practicum 2016-2017 Syllabus'
-type: OCWFile
 uid: 409e0a39-7777-c842-a0c9-50bc3bd09ca1
 ---

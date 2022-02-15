@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Research Agendas
-type: CourseSection
 uid: 3ed8c575-869c-8483-0a78-d90e1a447f8e
 ---
 

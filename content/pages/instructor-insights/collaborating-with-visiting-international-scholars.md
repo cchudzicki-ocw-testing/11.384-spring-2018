@@ -6,7 +6,6 @@ parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 parent_uid: 4a316d12-6586-fabe-6f8a-18ffa478dd4a
 title: Collaborating with Visiting International Scholars
-type: CourseSection
 uid: e357535c-fb8a-d125-607e-c3f40310362e
 ---
 
