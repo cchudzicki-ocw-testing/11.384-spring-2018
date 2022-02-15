@@ -12,6 +12,7 @@ image_metadata:
   image-alt: A  man in a white shirt and a red hat sorts through fish and shrimp on
     a counter. A few men stand around him.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Pre-Travel Tutorial
 parent_type: CourseSection
 resourcetype: Image

@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Street photo of the city of Kuala Lumpur.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 resourcetype: Image

@@ -10,6 +10,7 @@ image_metadata:
   credit: Photo by Rebecca Hui.
   image-alt: Two women sit leaning together in a doorway.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Research Agendas
 parent_type: CourseSection
 resourcetype: Image
