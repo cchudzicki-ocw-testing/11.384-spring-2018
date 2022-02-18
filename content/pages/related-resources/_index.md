@@ -9,7 +9,7 @@ uid: a28be3ab-a197-1e2b-ccf5-fc519a6d0346
 Teaching Videos and Working Papers by International Visiting Scholars
 ---------------------------------------------------------------------
 
-The [Research Agenda]({{< baseurl >}}/pages/research-agendas) generated each year by the Malaysia Sustainable Cities Practicum is taken up by a cohort of International Visiting Scholars, based in Malaysia for part of the following year, who focus their field research on the suggested topics in the Agenda. Then, while based at MIT for part of the year, the MSCP International Visiting Scholars each produce a short teaching video intended for those teaching about sustainable city development in the developing world and a scholarly paper that appears in the MIT MSCP Working Paper Series.
+The {{< resource_link 3ed8c575-869c-8483-0a78-d90e1a447f8e "Research Agenda" >}} generated each year by the Malaysia Sustainable Cities Practicum is taken up by a cohort of International Visiting Scholars, based in Malaysia for part of the following year, who focus their field research on the suggested topics in the Agenda. Then, while based at MIT for part of the year, the MSCP International Visiting Scholars each produce a short teaching video intended for those teaching about sustainable city development in the developing world and a scholarly paper that appears in the MIT MSCP Working Paper Series.
 
 2018 Cohort of International Visiting Scholars
 ----------------------------------------------
@@ -262,7 +262,7 @@ Mr. Carlos De La Torre
 "[Finding Energy Subsidy Savings for Malaysian Cities](https://malaysiacities.mit.edu/paperDeLaTorre)"
 {{< tdclose >}}
 {{< tdopen >}}
-"[Applying a Bottom-Up Approach to Improve Energy Subsidies in Malaysia]({{< baseurl >}}/resources/applying-a-bottom-up-approach-to-improve-energy-subsidies-in-malaysia)"
+"{{< resource_link febe7fb2-aa73-fb3f-9226-2ac03dfc4406 "Applying a Bottom-Up Approach to Improve Energy Subsidies in Malaysia" >}}"
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -274,7 +274,7 @@ Dr. Wesam Ahmed al Madhoun
 "[Temporal Distributions of Volatile Organic Compounds (VOCs) in an Equatorial Urban Environment](https://malaysiacities.mit.edu/paperMadhoun)"
 {{< tdclose >}}
 {{< tdopen >}}
-"[Strategies to Reduce Air Pollution from Vehicle Emissions in Penang, Malaysia]({{< baseurl >}}/resources/strategies-to-reduce-air-pollution-from-vehicle-emissions-in-penang-malaysia)"
+"{{< resource_link 0657e116-dba2-1861-4299-acec28fae64b "Strategies to Reduce Air Pollution from Vehicle Emissions in Penang, Malaysia" >}}"
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -286,7 +286,7 @@ Dr. Gurupiah Mursib
 "[Significance of Local Involvement in Defining Architectural Identity](https://malaysiacities.mit.edu/paperMursib)"
 {{< tdclose >}}
 {{< tdopen >}}
-"[Preservation of Local Identity and Architecture in the Face of Rapid Development in Malaysia]({{< baseurl >}}/resources/preservation-of-local-identity-and-architecture-in-the-face-of-rapid-development-in-malaysia)"
+"{{< resource_link ab12635d-4701-8eca-8d5a-153d097ce30b "Preservation of Local Identity and Architecture in the Face of Rapid Development in Malaysia" >}}"
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -298,7 +298,7 @@ Dr. Tej Kumar Karki
 "[How Capable are Local Residents and Local Governments in Coping with and Adapting to Flood Disasters in Malaysian Cities?](https://malaysiacities.mit.edu/paperKarki)"
 {{< tdclose >}}
 {{< tdopen >}}
-"[Challenges of Urban Flooding in Malaysia]({{< baseurl >}}/resources/challenges-of-urban-flooding-in-malaysia)"
+"{{< resource_link 7b8b5216-524c-9f46-d122-7f73d597f29e "Challenges of Urban Flooding in Malaysia" >}}"
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -310,7 +310,7 @@ Dr. Soriya Yin
 "[Sustainable City Tourism in Developing Countries: The Malaysia Experience](https://malaysiacities.mit.edu/paperYin)"
 {{< tdclose >}}
 {{< tdopen >}}
-"[Redefining Urban Rivers: River Restoration in Johor Bahru, Malaysia]({{< baseurl >}}/resources/redefining-urban-rivers-river-restoration-in-johor-bahru-malaysia)"
+"{{< resource_link feb5d2b1-7aad-aefd-43a1-e25a284dfac2 "Redefining Urban Rivers: River Restoration in Johor Bahru, Malaysia" >}}"
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -322,7 +322,7 @@ Dr. Nor Aishah Saidina Amin
 "[Reducing Carbon Dioxide Emissions in Biomass Power Plants Using the INCAM Model](https://malaysiacities.mit.edu/paperAmin)"
 {{< tdclose >}}
 {{< tdopen >}}
-"[Converting Biomass to Energy: A Low Carbon Development Strategy for Malaysia]({{< baseurl >}}/resources/converting-biomass-to-energy-a-low-carbon-development-strategy-for-malaysia)"
+"{{< resource_link 3003b11c-edc6-ae54-5923-65e3982e5a34 "Converting Biomass to Energy: A Low Carbon Development Strategy for Malaysia" >}}"
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -334,7 +334,7 @@ Dr. Norsidah Ujang
 "[Transforming the Historical Urban Village of Kampong Bharu into a New Urban Centre in Kuala Lumpur](https://malaysiacities.mit.edu/paperUjang)"
 {{< tdclose >}}
 {{< tdopen >}}
-"[A Road Map of Urban Village Transformation in Kuala Lumpur, Malaysia]({{< baseurl >}}/resources/a-road-map-of-urban-village-transformation-in-kuala-lumpur-malaysia)"
+"{{< resource_link 68b392aa-d67e-926c-9ae9-4befe7ba5e5a "A Road Map of Urban Village Transformation in Kuala Lumpur, Malaysia" >}}"
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -346,7 +346,7 @@ Dr. Abdul-Azeez Isiaka Adeyemi
 "[Measuring and Monitoring Carbon Emission to Promote Low-Carbon Development in Johor Bahru](https://malaysiacities.mit.edu/paperAdeyemi)"
 {{< tdclose >}}
 {{< tdopen >}}
-"[Promoting Low Carbon Development in Johor Bahru]({{< baseurl >}}/resources/promoting-low-carbon-development-in-johor-bahru)"
+"{{< resource_link aae57c2e-0421-ed68-e1b3-5afa5df2d50e "Promoting Low Carbon Development in Johor Bahru" >}}"
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -358,7 +358,7 @@ Dr. Reazul Ahsan
 "[Mega-Infrastructure Development-Induced Displacement in East Malaysia: A Study of Social Sustainability](https://malaysiacities.mit.edu/paperAhsan)"
 {{< tdclose >}}
 {{< tdopen >}}
-"[Development Induced Displacement in Malaysia]({{< baseurl >}}/resources/development-induced-displacement-in-malaysia)"
+"{{< resource_link 21531437-be16-6a08-e8b5-a13b646bc3a0 "Development Induced Displacement in Malaysia" >}}"
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -370,7 +370,7 @@ Dr. Jose A. Puppim de Oliveira
 "[Bridging Governmental Relations in Urban Management: Cases of Solid Waste Management and Climate Change in Two Malaysian States](https://malaysiacities.mit.edu/paperOliveira)"
 {{< tdclose >}}
 {{< tdopen >}}
-"[Innovative Strategies to Provide Solid Waste Management in Penang, Malaysia]({{< baseurl >}}/resources/innovative-strategies-to-provide-solid-waste-management-in-penang-malaysia)"
+"{{< resource_link c0d5f664-1ebc-6c86-e439-7482b6e2f66a "Innovative Strategies to Provide Solid Waste Management in Penang, Malaysia" >}}"
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -404,7 +404,7 @@ Dr. Akmal Abdelfatah
 "[Traffic Fatality Causes and Trends in Malaysia](https://malaysiacities.mit.edu/paperAbdelfatah)"
 {{< tdclose >}}
 {{< tdopen >}}
-"[Reducing Motorcycle Fatality and Promoting Sustainable Transport in Malaysia]({{< baseurl >}}/resources/reducing-motorcycle-fatality-and-promoting-sustainable-transport-in-malaysia)"
+"{{< resource_link 67aac1a9-bf6d-475e-5a3d-099573afce9b "Reducing Motorcycle Fatality and Promoting Sustainable Transport in Malaysia" >}}"
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -416,7 +416,7 @@ Dr. Akindele Oluremi Akinropo
 "[A Comparative Analysis of Shopping Malls in Putrajaya and Bukit Indah, Malaysia](https://malaysiacities.mit.edu/paperAkinropo)"
 {{< tdclose >}}
 {{< tdopen >}}
-"[Transforming Shopping Malls into Environmentally and Socially Sustainable Spaces in Malaysia]({{< baseurl >}}/resources/transforming-shopping-malls-into-environmentally-and-socially-sustainable-spaces-in-malaysia)"
+"{{< resource_link 916ceeaa-09ea-de60-8e01-8e871fb61d69 "Transforming Shopping Malls into Environmentally and Socially Sustainable Spaces in Malaysia" >}}"
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -428,7 +428,7 @@ Dr. Hong Ching Goh
 "[Assessing Mangrove Conservation Efforts in Iskandar Malaysia](https://malaysiacities.mit.edu/paperGoh)"
 {{< tdclose >}}
 {{< tdopen >}}
-"[Saving Malaysia Means Saving Its Mangroves]({{< baseurl >}}/resources/saving-malaysia-means-saving-its-mangroves)"
+"{{< resource_link a0aaa150-17d9-db19-0f1d-ccc92fb6c88a "Saving Malaysia Means Saving Its Mangroves" >}}"
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -440,7 +440,7 @@ Dr. Haslenda Hashim
 "An Integrated Carbon Accounting and Mitigation Framework for Greening Industry" (Paper not available.)
 {{< tdclose >}}
 {{< tdopen >}}
-"[The Benefits and Costs of Converting Waste to Energy in Malaysia]({{< baseurl >}}/resources/the-benefits-and-costs-of-converting-waste-to-energy-in-malaysia)"
+"{{< resource_link 802b90f1-8701-7c8f-7bb7-31412a7246a7 "The Benefits and Costs of Converting Waste to Energy in Malaysia" >}}"
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -452,7 +452,7 @@ Dr. Malik Asghar Naeem
 "[Policies and Issues Concerning Urban Sprawl and Compact Development Paradigm Adoption in Greater Kuala Lumpur, Malaysia](https://malaysiacities.mit.edu/paperNaeem)"
 {{< tdclose >}}
 {{< tdopen >}}
-"[Managing Urban Sprawl in Kuala Lumpur, Malaysia]({{< baseurl >}}/resources/managing-urban-sprawl-in-kuala-lumpur-malaysia)"
+"{{< resource_link 6ea7032f-00e2-f36a-2a48-599f9e1b5790 "Managing Urban Sprawl in Kuala Lumpur, Malaysia" >}}"
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -464,7 +464,7 @@ Dr. Zainura Zainon Noor
 "[Toward Sustainable Household Waste Management in Urban Areas: Determinants that Hindered Recycling Activities in the City Johor Bahru, Malaysia](https://malaysiacities.mit.edu/paperNoor)"
 {{< tdclose >}}
 {{< tdopen >}}
-"["Reduce, Reuse and Recycle", Encouraging Better Solid Waste Management Practices in Malaysia]({{< baseurl >}}/resources/reduce-reuse-and-recycle-encouraging-better-solid-waste-management-practices-in-malaysia)"
+"{{< resource_link 13be27f7-358c-939a-ff91-d5e861085d19 "\"Reduce, Reuse and Recycle\", Encouraging Better Solid Waste Management Practices in Malaysia" >}}"
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -476,7 +476,7 @@ Ms. Shraddha Pandey
 "[Impact of Rating Systems on the Sustainability and Efficacy of Green Buildings: A Case Analysis of Green Building Index, Malaysia](https://malaysiacities.mit.edu/paperPandey)"
 {{< tdclose >}}
 {{< tdopen >}}
-"[Encouraging Green Architecture in Malaysia]({{< baseurl >}}/resources/encouraging-green-architecture-in-malaysia)"
+"{{< resource_link 13c068ff-2672-c614-d6ab-707011bdb931 "Encouraging Green Architecture in Malaysia" >}}"
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -488,7 +488,7 @@ Dr. Fan Tu
 "[Promoting Urban Sustainability Through Green Technology: The Case of Malaysia](https://malaysiacities.mit.edu/paperTu)"
 {{< tdclose >}}
 {{< tdopen >}}
-"[Exploring The Potential For CO{{< sub "2" >}} Emission Reduction Through Green Technology Adoption in Malaysia]({{< baseurl >}}/resources/exploring-the-potential-for-co2-emission-reduction-through-green-technology-adoption-in-malaysia)"
+"{{< resource_link 2c5c3595-da39-5592-3a16-d492149040e2 "Exploring The Potential For CO{{< sub \"2\" >}} Emission Reduction Through Green Technology Adoption in Malaysia" >}}"
 {{< tdclose >}}
 
 {{< trclose >}}
