@@ -10,7 +10,7 @@ The Practicum is preceded by a mandatory online tutorial that students are requi
 
 Practicum students also participate in a short reflective workshop to introduce them to the reflective practice and journaling tools they will use throughout the Practicum.
 
-Assigned readings span the following topics (see the {{< resource_link 4fbf09c2-020d-2487-4fca-2bc866013ce3 "Syllabus" >}}) page for specific books, chapters and articles):
+Assigned readings span the following topics (see the {{% resource_link 4fbf09c2-020d-2487-4fca-2bc866013ce3 "Syllabus" %}}) page for specific books, chapters and articles):
 
 *   History and Challenges of Urbanization
 *   Reflective Practice

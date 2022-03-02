@@ -36,10 +36,10 @@ Instructor Insights
 
 _In the following pages, Lawrence Susskind describes various aspects of how he teaches_ 11.384 Malaysia Sustainable Cities Practicum_._
 
-*   {{< resource_link 1f0d60d2-bee8-90be-536b-2e3549448e14 "Malaysia Sustainable Cities Program: History and Implementation" >}}
-*   {{< resource_link e357535c-fb8a-d125-607e-c3f40310362e "Collaborating with Visiting International Scholars" >}}
-*   {{< resource_link bd7dcf48-3bba-73c4-46a6-dc109a96dbbc "The Role of Reflective Practice" >}}
-*   {{< resource_link 3c89ec9d-0b51-35da-aadd-ffeec39fb5cf "The Role of Online Technology" >}}
+*   {{% resource_link 1f0d60d2-bee8-90be-536b-2e3549448e14 "Malaysia Sustainable Cities Program: History and Implementation" %}}
+*   {{% resource_link e357535c-fb8a-d125-607e-c3f40310362e "Collaborating with Visiting International Scholars" %}}
+*   {{% resource_link bd7dcf48-3bba-73c4-46a6-dc109a96dbbc "The Role of Reflective Practice" %}}
+*   {{% resource_link 3c89ec9d-0b51-35da-aadd-ffeec39fb5cf "The Role of Online Technology" %}}
 
 Curriculum Information
 ----------------------
