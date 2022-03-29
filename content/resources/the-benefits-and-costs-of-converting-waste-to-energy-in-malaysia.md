@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: The Benefits and Costs of Converting Waste to Energy in Malaysia
 uid: 802b90f1-8701-7c8f-7bb7-31412a7246a7
 video_files:

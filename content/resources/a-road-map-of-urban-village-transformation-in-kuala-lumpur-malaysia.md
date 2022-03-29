@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: A Road Map of Urban Village Transformation in Kuala Lumpur, Malaysia
 uid: 68b392aa-d67e-926c-9ae9-4befe7ba5e5a
 video_files:
