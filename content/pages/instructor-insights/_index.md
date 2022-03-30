@@ -31,7 +31,7 @@ The Practicum concludes with a one-week group session at MIT that generates a [R
 
 {{< quote "Students in the Practicum are helping to identify the ways in which cities in Malaysia are striving to enhance sustainability." "— Lawrence Susskind" >}}
 
-_In the following pages, Lawrence Susskind describes various aspects of how he teaches_ 11.384 Malaysia Sustainable Cities Practicum.
+*In the following pages, Prof. Lawrence Susskind describes various aspects of how he teaches* 11.384 Malaysia Sustainable Cities Practicum.
 
 - {{% resource_link 1f0d60d2-bee8-90be-536b-2e3549448e14 "Malaysia Sustainable Cities Program: History and Implementation" %}}
 - {{% resource_link e357535c-fb8a-d125-607e-c3f40310362e "Collaborating with Visiting International Scholars" %}}
