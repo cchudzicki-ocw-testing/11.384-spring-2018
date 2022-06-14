@@ -29,3 +29,4 @@ video_metadata:
 **Instructor:** Carlos de la Torre
 
 **Working Paper:** "[Finding Energy Subsidy Savings for Malaysian Cities](http://malaysiacities.mit.edu/paperDeLaTorre)"
+

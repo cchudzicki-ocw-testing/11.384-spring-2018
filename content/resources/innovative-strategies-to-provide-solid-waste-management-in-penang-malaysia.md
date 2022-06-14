@@ -29,3 +29,4 @@ video_metadata:
 **Instructor:** Dr. Jose A. Puppim de Oliveira
 
 **Working Paper:** "[Bridging Governmental Relations in Urban Management: The Case of Solid Waste Management and Climate Change in Two Malaysian States](https://malaysiacities.mit.edu/paperOliveira)"
+

@@ -30,3 +30,4 @@ video_metadata:
 **Instructor:** Dr. Gurupiah Mursib
 
 **Working Paper:** "[Significance of Local Involvement in Continuing Local Architectural Identity](http://malaysiacities.mit.edu/paperMursib)"
+
