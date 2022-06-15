@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains general information about the schedule and goals
+  of the course and the details about assignments and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

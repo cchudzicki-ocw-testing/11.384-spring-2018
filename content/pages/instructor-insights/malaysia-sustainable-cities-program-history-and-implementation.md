@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Prof. Lawrence Susskind shares how the Malaysia Sustainable
+  Cities Program began and describes the groups of scholars, students, and administrative
+  support staff involved in implementing the program.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

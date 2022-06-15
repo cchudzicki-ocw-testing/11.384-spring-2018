@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This sections contains information about the activities the students
+  did before traveling to Malaysia. '
 learning_resource_types: []
 ocw_type: CourseSection
 title: Pre-Travel Tutorial
