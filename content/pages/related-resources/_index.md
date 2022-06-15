@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contain teaching videos by the Visiting Scholars and Research
+  Agendas created by the students. '
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
